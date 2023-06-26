@@ -1,0 +1,44 @@
+.bold{
+    color: #e01017;
+}
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    font-family: sans-serif;
+}
+section{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+span{
+    color: rgb(141, 245, 56);
+    font-weight: bold;
+    font-family: cursive;
+}
+p{
+    font-size: 18px;
+}
+
+li{
+    padding: 5px;
+
+}
+.nav-link{
+    font-size: 15;
+    font-weight: bold;
+    border: 2px solid transparent;
+}
+.nav-link:hover{
+    background-color:rgb(141, 245, 56);
+
+}
+button{
+    background-color:rgb(141, 245, 56) ;
+}
